@@ -6,8 +6,6 @@ In this project, we will explore how to train, save, load, deploy, and run a Con
 ---
 
 ## Convolutional Neural Networks (CNNs)
-### Definition
-CNNs are a class of deep neural networks, primarily applied to analyzing visual imagery.
 
 ### Components
 - **Convolutional Layers**: Extract features from input images.
